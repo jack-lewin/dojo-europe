@@ -7,6 +7,8 @@
     "clean": "bsb -clean-world"
   },
   "dependencies": {
+    "@glennsl/bs-json": "^2.0.0",
+    "bs-css": "^6.7.0",
     "bs-platform": "^3.1.4",
     "react": "^16.4.0",
     "react-simple-maps": "^0.12.1",
